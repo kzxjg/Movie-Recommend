@@ -2,8 +2,6 @@ Movie Reccomender Application in C++ which reccomends a movie from a database gi
 
 Limitations
 -----------
-
-(if you didn't implement all requested features, list which ones are missing)
 - If the same movie is entered again it adds to database instead of giving
   message that the movie
 
