@@ -1,0 +1,31 @@
+CMPT 125 Assignment 5
+=====================
+
+Names of Team Members
+Kalidu Perera 301222333 (Me)
+
+(include the full names, SFU email addresses, and SFU student numbers of all
+team members)
+
+
+Limitations
+-----------
+
+(if you didn't implement all requested features, list which ones are missing)
+- If the same movie is entered again it adds to database instead of giving
+  message that the movie
+
+- When you enter a non integer it prints message more than once
+
+
+Known Bugs
+----------
+
+(list all known bugs here)
+- On rare occasions the program might fail to read the txt file
+
+
+Extra Features
+--------------
+
+(if your program has any extra or special features, tell us about them here)

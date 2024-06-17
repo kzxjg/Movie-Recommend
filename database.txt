@@ -1,0 +1,12 @@
+The Lord of the Rings: The Fellowship of the Ring,Fantasy,2001
+The Lord of the Rings: The Two Towers,Fantasy,2002
+A Silent Voice,Romance,2016
+Pulp Fiction,Crime,1994
+Shrek,Comedy,2001
+John Wick,Action,2014
+Kill Bill: Volume 1, Action,2003
+The Lord of the Rings: The Return of the King,Fantasy,2003
+John Wick 2,Action,2017
+Lalaland,Romance,2016
+Jurassic Park,Sci-Fi,1993
+Frozen,Musical,2016
